@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img align="left" alt="AlexSimafranca's GitHub Stats" src="https://github-readme-stats-sigma-three-28.vercel.app/api?username=anuraghazra" />
+<img align="left" alt="AlexSimafranca's GitHub Stats" src="https://github-readme-stats-sigma-three-28.vercel.app/api?username=AlexSimafranca" />
 
 <!--
 **AlexSimafranca/alexsimafranca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
