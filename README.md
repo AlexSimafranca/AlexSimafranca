@@ -1,7 +1,7 @@
 ## Hi, I'm Alex!
 
-<img align="left" width="420px" alt="AlexSimafranca's GitHub Contribution Stats" src="https://github-readme-stats-sigma-three-28.vercel.app/api?username=AlexSimafranca&count_private=true&show_icons=true&show=reviews&hide=stars,issues&hide_rank=true" />
-<img align="left" width="310px" lt="AlexSimafranca's GitHub Language Stats" src="https://github-readme-stats-sigma-three-28.vercel.app/api/top-langs/?username=AlexSimafranca&count_private=true&layout=compact&langs_count=8" />
+<img align="left" width="350px" alt="AlexSimafranca's GitHub Contribution Stats" src="https://github-readme-stats-sigma-three-28.vercel.app/api?username=AlexSimafranca&count_private=true&show_icons=true&show=reviews&hide=stars,issues&hide_rank=true" />
+<img align="left" width="250px" lt="AlexSimafranca's GitHub Language Stats" src="https://github-readme-stats-sigma-three-28.vercel.app/api/top-langs/?username=AlexSimafranca&count_private=true&layout=compact&langs_count=8" />
 
 <!--
 **AlexSimafranca/alexsimafranca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
