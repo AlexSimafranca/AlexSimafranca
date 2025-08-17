@@ -2,7 +2,7 @@
 I'm a software developer and interdisciplinary electronics researcher with a background in semiconducting polymers. I'm currently wrapping up my PhD in materials chemistry at UCLA and am looking for the next step in my career journey.
 
 <img align="left" width="350px" alt="AlexSimafranca's GitHub Contribution Stats" src="https://github-readme-stats-sigma-three-28.vercel.app/api?username=AlexSimafranca&count_private=true&show_icons=true&show=reviews&hide=stars,issues&hide_rank=true" />
-<img align="left" width="250px" lt="AlexSimafranca's GitHub Language Stats" src="https://github-readme-stats-sigma-three-28.vercel.app/api/top-langs/?username=AlexSimafranca&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8" />
+<img align="left" width="250px" lt="AlexSimafranca's GitHub Language Stats" src="https://github-readme-stats-sigma-three-28.vercel.app/api/top-langs/?username=AlexSimafranca&count_private=true&layout=compact&size_weight=0.4&count_weight=0.6&langs_count=10" />
 
 <!--
 **AlexSimafranca/alexsimafranca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
